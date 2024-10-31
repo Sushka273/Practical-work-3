@@ -90,7 +90,7 @@ namespace Практическая__2_Трусов
 
         private void About_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Дана целочисленная матрица размера M × N. \n Для каждой строки матрицы найти сумму её элементов.");
+            MessageBox.Show("Дана целочисленная матрица размера M × N. \n Для каждой строки матрицы найти сумму её элементов. ^}{lkbghgijh");
         }
 
         private void Exit_Click(object sender, RoutedEventArgs e)
